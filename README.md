@@ -45,7 +45,7 @@ Thanks to the following artists for providing music tracks used in the game (sou
 
 ## How to Play
 1. Download the game build from my GitHub repository:  
-   [Download Here](https://github.com/adithyanraj03/Open-World-Plane-With-Realistic-Globe)
+   [Download Here](https://github.com/adithyanraj03/Open-World-Geographic-Delivery-Plane-Integrated-with-Real-time-NASA-Earth-Data)
 2. Fly around the world using the intuitive flight controls.
 3. Pick up packages by flying through hot air balloons.
 4. Deliver packages to cities by flying over their locations.
